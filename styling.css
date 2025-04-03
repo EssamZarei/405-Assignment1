@@ -328,13 +328,6 @@ main {
 
 
 
-html,
-body footer {
-    height: 6%;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-}
 
 
 .content {
