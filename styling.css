@@ -24,7 +24,7 @@ body {
 
 .title {
     border-bottom: rgb(70, 69, 69);
-    /* border-bottom-style: dashed; */
+    border-bottom-style: dashed;
 
     border-bottom-width: 3px;
     border-width: 50%;
