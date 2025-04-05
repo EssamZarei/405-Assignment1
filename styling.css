@@ -256,6 +256,10 @@ main {
     margin-bottom: 3%;
 }
 
+a.a-email-phone {
+  text-decoration: none !important;
+}
+
 #contain-app-icon {
     /* border: 1px solid black; */
     padding-top: 10px;
